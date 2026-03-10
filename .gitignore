@@ -1,0 +1,15 @@
+# Credenciais — nunca commitar este ficheiro
+config.json
+
+# Estado dos tickets vistos
+seen_tickets.json
+
+# PyInstaller — ficheiros gerados pelo build.bat
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
