@@ -1,4 +1,4 @@
-# 🎫 Ticket Monitor — osTicket
+# 🎫 Ticket Monitor — SupportSystem
 
 Monitor automático de novos tickets para osTicket com notificações nativas no Windows.
 
