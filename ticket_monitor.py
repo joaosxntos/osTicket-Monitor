@@ -286,7 +286,7 @@ class TicketMonitor:
                 duration="long",
                 launch=ticket_url,   # ← abre o ticket no browser ao clicar
             )
-            toast.set_audio(audio.Default, loop=False)
+            toast.set_audio(audio.Silent, loop=False)
             toast.show()
             log.info(f"✅ #{ticket.number} | {ticket.title} | {ticket.user}")
         except Exception as e:
